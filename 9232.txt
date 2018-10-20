@@ -1,5 +1,5 @@
-The Project Gutenberg EBook of Passages from a Relinquished Work (From
-"Mosses From An Old Manse"), by Nathaniel Hawthorne
+﻿The Project Gutenberg EBook of Passages from a Relinquished Work (From
+“Mosses From An Old Manse”), by Nathaniel Hawthorne
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -7,25 +7,24 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.net
 
 
-Title: Passages from a Relinquished Work (From "Mosses From An Old Manse")
+Title: Passages from a Relinquished Work (From “Mosses From An Old Manse”)
 
 Author: Nathaniel Hawthorne
 
-Posting Date: December 8, 2010 [EBook #9232]
-Release Date: November, 2005
+Release Date: November, 2005 [EBook #9232]
 First Posted: September 6, 2003
-Last Updated: February 6, 2007
+Last Updated: December 14, 2016
 
 Language: English
 
-Character set encoding: ASCII
+Character set encoding: UTF-8
 
 *** START OF THIS PROJECT GUTENBERG EBOOK PASSAGES--RELINQUISHED WORK ***
 
 
 
 
-Produced by David Widger.  HTML version by Al Haines.
+Produced by David Widger
 
 
 
@@ -51,7 +50,7 @@ stripes, using no distinction, as to these marks of paternal love,
 between myself and his own three boys.  The result, it must be
 owned, has been very different in their cases and mine, they being
 all respectable men and well settled in life; the eldest as the
-successor to his father's pulpit, the second as a physician, and the
+successor to his father’s pulpit, the second as a physician, and the
 third as a partner in a wholesale shoe-store; while I, with better
 prospects than either of them, have run the course which this volume
 will describe.  Yet there is room for doubt whether I should have
@@ -74,7 +73,7 @@ convinced me that he held, in imagination, either the Old Nick or
 some Unitarian infidel at bay, and belabored his unhappy cushion as
 proxy for those abominable adversaries.  Nothing but this exercise
 of the body while delivering his sermons could have supported the
-good parson's health under the mental toil which they cost him in
+good parson’s health under the mental toil which they cost him in
 composition.
 
 Though Parson Thumpcushion had an upright heart, and some called it
@@ -92,7 +91,7 @@ neither father nor mother alive; for parents have an instinctive
 sagacity in regard to the welfare of their children, and the child
 feels a confidence both in the wisdom and affection of his parents
 which he cannot transfer to any delegate of their duties, however
-conscientious.  An orphan's fate is hard, be he rich or poor.  As
+conscientious.  An orphan’s fate is hard, be he rich or poor.  As
 for Parson Thumpcushion, whenever I see the old gentleman in my
 dreams he looks kindly and sorrowfully at me, holding out his hand
 as if each had something to forgive.  With such kindness and such
@@ -125,7 +124,7 @@ I do not over-estimate my notoriety when I take it for granted that
 many of my readers must have heard of me in the wild way of life
 which I adopted.  The idea of becoming a wandering story-teller had
 been suggested, a year or two before, by an encounter with several
-merry vagabonds in a showman's wagon, where they and I had sheltered
+merry vagabonds in a showman’s wagon, where they and I had sheltered
 ourselves during a summer shower.  The project was not more
 extravagant than most which a young man forms. Stranger ones are
 executed every day; and, not to mention my prototypes in the East,
@@ -139,7 +138,7 @@ tormented me for employment, keeping up an irregular activity even
 in sleep, and making me conscious that I must toil, if it were but
 in catching butterflies.  But my chief motives were, discontent with
 home and a bitter grudge against Parson Thumpcushion, who would
-rather have laid me in my father's tomb than seen me either a
+rather have laid me in my father’s tomb than seen me either a
 novelist or an actor, two characters which I thus hit upon a method
 of uniting.  After all, it was not half so foolish as if I had
 written romances instead of reciting them.
@@ -187,8 +186,8 @@ based on earth, appeared not less substantial than the edifices, and
 gave their own indistinctness to the whole.  It was singular that
 such an unromantic scene should look so visionary.
 
-Half of the parson's dwelling was a dingy white house, and half of
-it was a cloud; but Squire Moody's mansion, the grandest in the
+Half of the parson’s dwelling was a dingy white house, and half of
+it was a cloud; but Squire Moody’s mansion, the grandest in the
 village, was wholly visible, even the lattice-work of the balcony
 under the front window; while in another place only two red chimneys
 were seen above the mist, appertaining to my own paternal residence,
@@ -197,7 +196,7 @@ had dwelt there, not even my mother. The brick edifice of the bank
 was in the clouds; the foundations of what was to be a great block
 of buildings had vanished, ominously, as it proved; the dry-goods
 store of Mr. Nightingale seemed a doubtful concern; and Dominicus
-Pike's tobacco manufactory an affair of smoke, except the splendid
+Pike’s tobacco manufactory an affair of smoke, except the splendid
 image of an Indian chief in front.  The white spire of the meeting-house
 ascended out of the densest heap of vapor, as if that shadowy
 base were its only support: or, to give a truer interpretation, the
@@ -219,7 +218,7 @@ up my home and took the whole world in exchange, fluttering the
 wings of my spirit as if I would have flown from one star to another
 through the universe.  I waved my hand towards the dusky village,
 bade it a joyous farewell, and turned away to follow any path but
-that which might lead me back.  Never was Childe Harold's sentiment
+that which might lead me back.  Never was Childe Harold’s sentiment
 adopted in a spirit more unlike his own.
 
 Naturally enough, I thought of Don Quixote.  Recollecting how the
@@ -275,7 +274,7 @@ up rather nervously, and, turning round, showed the face of a young
 man about my own age, with his finger in a volume which he had been
 reading till my intrusion.  His book was evidently a pocket Bible.
 Though I piqued myself at that period on my great penetration into
-people's characters and pursuits, I could not decide whether this
+people’s characters and pursuits, I could not decide whether this
 young man in black were an unfledged divine from Andover, a college
 student, or preparing for college at some academy.  In either case I
 would quite as willingly have found a merrier companion; such, for
@@ -284,26 +283,26 @@ beside a fountain in Spain.
 
 After a nod, which was duly returned, I made a goblet of oak-leaves,
 filled and emptied it two or three times, and then remarked, to hit
-the stranger's classical associations, that this beautiful fountain
+the stranger’s classical associations, that this beautiful fountain
 ought to flow from an urn instead of an old barrel.  He did not show
 that he understood the allusion, and replied very briefly, with a
 shyness that was quite out of place between persons who met in such
 circumstances.  Had he treated my next observation in the same way,
 we should have parted without another word.
 
-"It is very singular," said I,--"though doubtless there are good
+“It is very singular,” said I,--“though doubtless there are good
 reasons for it,--that Nature should provide drink so abundantly, and
 lavish it everywhere by the roadside, but so seldom anything to eat.
 Why should not we find a loaf of bread on this tree as well as a
-barrel of good liquor at the foot of it?"
+barrel of good liquor at the foot of it?”
 
-"There is a loaf of bread on the tree," replied the stranger,
-without even smiling--at a coincidence which made me laugh.  "I have
+“There is a loaf of bread on the tree,” replied the stranger,
+without even smiling--at a coincidence which made me laugh.  “I have
 something to eat in my bundle; and, if you can make a dinner with
-me, you shall be welcome."
+me, you shall be welcome.”
 
-"I accept your offer with pleasure," said I.  "A pilgrim such as I
-am must not refuse a providential meal."
+“I accept your offer with pleasure,” said I.  “A pilgrim such as I
+am must not refuse a providential meal.”
 
 The young man had risen to take his bundle from the branch of the
 tree, but now turned round and regarded me with great earnestness,
@@ -322,26 +321,26 @@ same tremulous fervor.
 He felt a natural kindness for me after thus relieving my
 necessities, and showed it by becoming less reserved.  On my part, I
 professed never to have relished a dinner better; and, in requital
-of the stranger's hospitality, solicited the pleasure of his company
+of the stranger’s hospitality, solicited the pleasure of his company
 to supper.
 
-"Where?  At your home?"  asked he.
+“Where?  At your home?”  asked he.
 
-"Yes," said I, smiling.
+“Yes,” said I, smiling.
 
-"Perhaps our roads are not the same," observed he.
+“Perhaps our roads are not the same,” observed he.
 
-"O, I can take any road but one, and yet not miss my way," answered
-I.  "This morning I breakfasted at home; I shall sup at home
+“O, I can take any road but one, and yet not miss my way,” answered
+I.  “This morning I breakfasted at home; I shall sup at home
 to-night; and a moment ago I dined at home.  To be sure, there was a
 certain place which I called home; but I have resolved not to see it
 again till I have been quite round the globe and enter the street on
 the east as I left it on the west. In the mean time, I have a home
-everywhere, or nowhere, just as you please to take it."
+everywhere, or nowhere, just as you please to take it.”
 
-"Nowhere, then; for this transitory world is not our home," said the
-young man, with solemnity.  "We are all pilgrims and wanderers; but
-it is strange that we two should meet."
+“Nowhere, then; for this transitory world is not our home,” said the
+young man, with solemnity.  “We are all pilgrims and wanderers; but
+it is strange that we two should meet.”
 
 I inquired the meaning of this remark, but could obtain no
 satisfactory reply.  But we had eaten salt together, and it was
@@ -350,23 +349,23 @@ Arabs of the desert do, especially as he had learned something about
 myself, and the courtesy of the country entitled me to as much
 information in return.  I asked whither he was travelling.
 
-"I do not know," said he; "but God knows."
+“I do not know,” said he; “but God knows.”
 
-"That is strange!"  exclaimed I; "not that God should know it, but
-that you should not.  And how is your road to be pointed out?"
+“That is strange!”  exclaimed I; “not that God should know it, but
+that you should not.  And how is your road to be pointed out?”
 
-"Perhaps by an inward conviction," he replied, looking sideways at
-me to discover whether I smiled; "perhaps by an outward sign."
+“Perhaps by an inward conviction,” he replied, looking sideways at
+me to discover whether I smiled; “perhaps by an outward sign.”
 
-"Then, believe me," said I, "the outward sign is already granted
+“Then, believe me,” said I, “the outward sign is already granted
 you, and the inward conviction ought to follow.  We are told of
 pious men in old times who committed themselves to the care of
 Providence, and saw the manifestation of its will in the slightest
 circumstances, as in the shooting of a star, the flight of a bird,
 or the course taken by some brute animal.  Sometimes even a stupid
-ass was their guide.  May I not be as good a one?"
+ass was their guide.  May I not be as good a one?”
 
-"I do not know," said the pilgrim, with perfect simplicity.
+“I do not know,” said the pilgrim, with perfect simplicity.
 
 We did, however, follow the same road, and were not overtaken, as I
 partly apprehended, by the keepers of any lunatic asylum in pursuit
@@ -375,7 +374,7 @@ sanity as I did of his, though certainly with less justice, since I
 was fully aware of my own extravagances, while he acted as wildly,
 and deemed it heavenly wisdom.  We were a singular couple,
 strikingly contrasted, yet curiously assimilated, each of us
-remarkable enough by himself, and doubly so in the other's company.
+remarkable enough by himself, and doubly so in the other’s company.
 Without any formal compact, we kept together day after day till our
 union appeared permanent.  Even had I seen nothing to love and
 admire in him, I could never have thought of deserting one who
@@ -436,7 +435,7 @@ my success was generally in proportion to the difference between the
 conception and accomplishment.  I provided two or more commencements
 and catastrophes to many of the tales,--a happy expedient, suggested
 by the double sets of sleeves and trimmings which diversified the
-suits in Sir Piercy Shafton's wardrobe.  But my best efforts had a
+suits in Sir Piercy Shafton’s wardrobe.  But my best efforts had a
 unity, a wholeness, and a separate character that did not admit of
 this sort of mechanism.
 
@@ -446,11 +445,11 @@ THE VILLAGE THEATRE
 
 About the first of September my fellow-traveller and myself arrived
 at a country town, where a small company of actors, on their return
-from a summer's campaign in the British Provinces, were giving a
+from a summer’s campaign in the British Provinces, were giving a
 series of dramatic exhibitions.  A moderately sized hall of the
 tavern had been converted into a theatre.  The performances that
 evening were, The Heir at Law, and No Song, no Supper, with the
-recitation of Alexander's Feast between the play and farce.  The
+recitation of Alexander’s Feast between the play and farce.  The
 house was thin and dull.  But the next day there appeared to be
 brighter prospects, the playbills announcing at every corner, on the
 town-pump, and--awful sacrilege!--on the very door of the meeting-house,
@@ -459,7 +458,7 @@ entertainments of a theatre, the public were informed, in the hugest
 type that the printing-office could supply, that the manager had
 been fortunate enough to accomplish an engagement with the
 celebrated Story-Teller.  He would make his first appearance that
-evening, and recite his famous tale of Mr. Higginbotham's
+evening, and recite his famous tale of Mr. Higginbotham’s
 Catastrophe, which had been received with rapturous applause by
 audiences in all the principal cities.  This outrageous flourish of
 trumpets, be it known, was wholly unauthorized by me, who had merely
@@ -524,11 +523,11 @@ the floor; while the ladies flourished their white cambric
 handkerchiefs, intermixed with yellow and red bandanna, like the
 flags of different nations. After such a salutation, the celebrated
 Story-Teller felt almost ashamed to produce so humble an affair as
-Mr. Higginbotham's Catastrophe.
+Mr. Higginbotham’s Catastrophe.
 
 This story was originally more dramatic than as there presented, and
 afforded good scope for mimicry and buffoonery, neither of which, to
-my shame, did I spare.  I never knew the "magic of a name" till I
+my shame, did I spare.  I never knew the “magic of a name” till I
 used that of Mr. Higginbotham.  Often as I repeated it, there were
 louder bursts of merriment than those which responded to what, in my
 opinion, were more legitimate strokes of humor.  The success of the
@@ -557,7 +556,7 @@ other than his lost ward.  His epistle, though I never read it,
 affected me most painfully.  I seemed to see the Puritanic figure of
 my guardian standing among the fripperies of the theatre and
 pointing to the players,--the fantastic and effeminate men, the
-painted women, the giddy girl in boy's clothes, merrier than
+painted women, the giddy girl in boy’s clothes, merrier than
 modest,--pointing to these with solemn ridicule, and eying me with
 stern rebuke.  His image was a type of the austere duty, and they of
 the vanities of life.
@@ -593,15 +592,15 @@ life.
 
 
 End of the Project Gutenberg EBook of Passages from a Relinquished Work
-(From "Mosses From An Old Manse"), by Nathaniel Hawthorne
+(From “Mosses From An Old Manse”), by Nathaniel Hawthorne
 
 *** END OF THIS PROJECT GUTENBERG EBOOK PASSAGES--RELINQUISHED WORK ***
 
-***** This file should be named 9232.txt or 9232.zip *****
+***** This file should be named 9232-0.txt or 9232-0.zip *****
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/9/2/3/9232/
 
-Produced by David Widger.  HTML version by Al Haines.
+Produced by David Widger
 
 Updated editions will replace the previous one--the old editions
 will be renamed.
@@ -632,8 +631,8 @@ PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 
 To protect the Project Gutenberg-tm mission of promoting the free
 distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
 http://gutenberg.net/license).
 
@@ -652,7 +651,7 @@ Gutenberg-tm electronic work and you do not agree to be bound by the
 terms of this agreement, you may obtain a refund from the person or
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+1.B.  “Project Gutenberg” is a registered trademark.  It may only be
 used on or associated in any way with an electronic work by people who
 agree to be bound by the terms of this agreement.  There are a few
 things that you can do with most Project Gutenberg-tm electronic works
@@ -662,8 +661,8 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 works.  See paragraph 1.E below.
 
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
+1.C.  The Project Gutenberg Literary Archive Foundation (“the Foundation”
+ or PGLAF), owns a compilation copyright in the collection of Project
 Gutenberg-tm electronic works.  Nearly all the individual works in the
 collection are in the public domain in the United States.  If an
 individual work is in the public domain in the United States and you are
@@ -693,8 +692,8 @@ States.
 1.E.1.  The following sentence, with active links to, or other immediate
 access to, the full Project Gutenberg-tm License must appear prominently
 whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
+phrase “Project Gutenberg” appears, or with which the phrase “Project
+Gutenberg” is associated) is accessed, displayed, performed, viewed,
 copied or distributed:
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -707,7 +706,7 @@ from the public domain (does not contain a notice indicating that it is
 posted with permission of the copyright holder), the work can be copied
 and distributed to anyone in the United States without paying any fees
 or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
+with the phrase “Project Gutenberg” associated with or appearing on the
 work, you must comply either with the requirements of paragraphs 1.E.1
 through 1.E.7 or obtain permission for the use of the work and the
 Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
@@ -734,11 +733,11 @@ Gutenberg-tm License.
 compressed, marked up, nonproprietary or proprietary form, including any
 word processing or hypertext form.  However, if you provide access to or
 distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
+“Plain Vanilla ASCII” or other format used in the official version
 posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
 you must, at no additional cost, fee or expense to the user, provide a
 copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
+request, of the work in its original “Plain Vanilla ASCII” or other
 form.  Any alternate format must include the full Project Gutenberg-tm
 License as specified in paragraph 1.E.1.
 
@@ -760,8 +759,8 @@ that
      prepare (or are legally required to prepare) your periodic tax
      returns.  Royalty payments should be clearly marked as such and
      sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
+     address specified in Section 4, “Information about donations to
+     the Project Gutenberg Literary Archive Foundation.”
 
 - You provide a full refund of any money paid by a user who notifies
      you in writing (or by e-mail) within 30 days of receipt that s/he
@@ -793,14 +792,14 @@ effort to identify, do copyright research on, transcribe and proofread
 public domain works in creating the Project Gutenberg-tm
 collection.  Despite these efforts, Project Gutenberg-tm electronic
 works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
+“Defects,” such as, but not limited to, incomplete, inaccurate or
 corrupt data, transcription errors, a copyright or other intellectual
 property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 your equipment.
 
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
 Gutenberg-tm electronic work under this agreement, disclaim all
@@ -827,7 +826,7 @@ is also defective, you may demand a refund in writing without further
 opportunities to fix the problem.
 
 1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’ WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
 
@@ -860,7 +859,7 @@ because of the efforts of hundreds of volunteers and donations from
 people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
+assistance they need are critical to reaching Project Gutenberg-tm’s
 goals and ensuring that the Project Gutenberg-tm collection will
 remain freely available for generations to come.  In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
@@ -876,18 +875,18 @@ Foundation
 The Project Gutenberg Literary Archive Foundation is a non profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
+Revenue Service.  The Foundation’s EIN or federal tax identification
 number is 64-6221541.  Its 501(c)(3) letter is posted at
 http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
 Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
+permitted by U.S. federal laws and your state’s laws.
 
-The Foundation's principal office is located at 4557 Melan Dr. S.
+The Foundation’s principal office is located at 4557 Melan Dr. S.
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
 throughout numerous locations.  Its business office is located at
 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
 business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
+information can be found at the Foundation’s web site and official
 page at http://pglaf.org
 
 For additional contact information:
